@@ -2,10 +2,14 @@
 Tool for a more flexible brightness adjustment, to adjust it as flexible as what Windows can do.
 
 Make sure to have brightnessctl and Mono installed.
+
 Reference for brightnessctl: https://github.com/Hummer12007/brightnessctl
+
 Reference for Mono: https://www.mono-project.com/download/stable
 
 Use this prompt on AI such as Google Gemini or ChatGPT to generate the source code:
+
+***
 
 Create for me a minimalist C# Winforms CS file, that has 1 control only of type TrackBar. The min value should be 1 while the max value should be 1000. Make sure the form is packed to show that 1 control only, thus not too wide or to high. Thus having a very minimal area. For every scroll of that TrackBar control, make sure the Title/Text property of the form is updated to show what number it is currently. Make sure the code is compatible with .NET 4.5, and not the current .NET Core 10. Make sure I can compile it with csc compiler instead of using Visual Studio 2026.
 
