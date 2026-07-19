@@ -1,13 +1,13 @@
 # BrightnessAdjustmentForUbuntu
-Tool for a more flexible brightness adjustment, to adjust it as flexible as what Windows can do.
+The goal is to have a more flexible brightness adjustment on Ubuntu, to adjust it as flexible as what Windows can do.
 
-Make sure to have brightnessctl and Mono installed.
+Make sure to have both _brightnessctl_ and _Mono_ installed.
 
-Reference for brightnessctl: https://github.com/Hummer12007/brightnessctl
+Reference for _brightnessctl_: https://github.com/Hummer12007/brightnessctl
 
-Reference for Mono: https://www.mono-project.com/download/stable
+Reference for _Mono_: https://www.mono-project.com/download/stable
 
-Use this prompt on AI such as Google Gemini or ChatGPT to generate the source code:
+Use this prompt on AI such as Google Gemini, ChatGPT, or Microsoft CoPilot to generate the source code:
 
 ***
 
