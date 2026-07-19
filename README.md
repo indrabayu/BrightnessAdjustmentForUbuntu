@@ -1,4 +1,4 @@
-# BrightnessAdjustmentForUbuntu
+# Brightness Adjustment for Ubuntu
 
 ![Project Screenshot](Screenshot_2026-07-20_05-57-03.png)
 
