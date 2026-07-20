@@ -1,16 +1,24 @@
 # Brightness Adjustment for Ubuntu
 
-![Project Screenshot](HowToRun.png)
+* How to download?
 
 ![Project Screenshot](HowToDownload.png)
+
+***
+
+* How to run it?
+
+![Project Screenshot](HowToRun.png)
+
+***
 
 The goal is to have a more flexible brightness adjuster for Ubuntu, just like what we can do on Windows.
 
 Please make sure to have both _brightnessctl_ and _Mono_ installed.
 
-Reference for **brightnessctl** : https://github.com/Hummer12007/brightnessctl
+1. Reference for **brightnessctl** : https://github.com/Hummer12007/brightnessctl
 
-Reference for **Mono** : https://www.mono-project.com/download/stable
+2. Reference for **Mono** : https://www.mono-project.com/download/stable
 
 In case you want directly to get the binary, [download](https://github.com/indrabayu/BrightnessAdjustmentForUbuntu/releases/download/Binary/BrightnessTracker) it from the Releases section on the right (see the 2nd snip).
 
