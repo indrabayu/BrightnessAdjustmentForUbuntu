@@ -1,6 +1,6 @@
 # Brightness Adjustment for Ubuntu
 
-![Project Screenshot](Screenshot_2026-07-20_05-57-03.png)
+![Project Screenshot](Screenshot_2026-07-20_10-06-15.png)
 
 The goal is to have a more flexible brightness adjustment on Ubuntu, to adjust it as flexible as what Windows can do.
 
