@@ -20,7 +20,7 @@ Please make sure to have both _brightnessctl_ and _Mono_ installed.
 
 2. Reference for **Mono** : https://www.mono-project.com/download/stable
 
-In case you want directly to get the binary, [download](https://github.com/indrabayu/BrightnessAdjustmentForUbuntu/releases/download/Binary/BrightnessTracker) it from the Releases section on the right (see the 2nd snip).
+In case you want directly to get the binary, [download](https://github.com/indrabayu/BrightnessAdjustmentForUbuntu/releases/download/Binary/BrightnessTracker) it from the Releases section on the right (see the 1st snip).
 
 Use this prompt on AI such as Google Gemini, ChatGPT, or Microsoft CoPilot to generate the source code:
 
