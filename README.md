@@ -2,13 +2,13 @@
 
 ![Project Screenshot](Screenshot_2026-07-20_10-06-15.png)
 
-The goal is to have a more flexible brightness adjustment on Ubuntu, to adjust it as flexible as what Windows can do.
+The goal is to have a more flexible brightness adjuster for Ubuntu, just like what we can do on Windows.
 
-Make sure to have both _brightnessctl_ and _Mono_ installed.
+Please make sure to have both _brightnessctl_ and _Mono_ installed.
 
-Reference for _brightnessctl_: https://github.com/Hummer12007/brightnessctl
+Reference for **brightnessctl** : https://github.com/Hummer12007/brightnessctl
 
-Reference for _Mono_: https://www.mono-project.com/download/stable
+Reference for **Mono** : https://www.mono-project.com/download/stable
 
 Use this prompt on AI such as Google Gemini, ChatGPT, or Microsoft CoPilot to generate the source code:
 
