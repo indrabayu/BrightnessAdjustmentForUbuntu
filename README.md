@@ -1,6 +1,6 @@
 # Brightness Adjustment for Ubuntu
 
-* How to download?
+* Where to download?
 
 ![Project Screenshot](HowToDownload.png)
 
